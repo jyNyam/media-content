@@ -89,9 +89,11 @@
 
 - **GitHub Issue 포트폴리오 전체**: [https://github.com/jyNyam/media-content/issues](https://github.com/jyNyam/media-content/issues)
 - **Email**: jyardent@gmail.com  
-- **Resume/지원 포지션**: JTBC 디지털 콘텐츠 서비스 직무
+- **Resume/지원 포지션**: JTBC 디지털콘텐트 제작 및 운영
 
 ---
+
+
 
 **디지털 경험의 핵심은 '사람과 메시지'에 있다고 생각합니다.  
 저는 기술을 넘어서는 공감과 연결의 콘텐츠를 만들기 위해 오늘도 학습하고 실천합니다.**
