@@ -89,7 +89,6 @@
 
 - **GitHub Issue 포트폴리오 전체**: [https://github.com/jyNyam/media-content/issues](https://github.com/jyNyam/media-content/issues)
 - **Email**: jyardent@gmail.com  
-- **Resume/지원 포지션**: JTBC 디지털콘텐트 제작 및 운영
 
 ---
 
